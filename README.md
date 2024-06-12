@@ -14,7 +14,7 @@ The contract has a mint function that:
 Increases the total supply by the specified value.
 Increases the balance of the specified address by the specified value.
 The contract has a burn function that:
-akes an address and a value as parameters.
+Takes an address and a value as parameters.
 Decreases the total supply by the specified value.
 Decreases the balance of the specified address by the specified value.
 Ensures that the balance of the address is greater than or equal to the value to be burned.
